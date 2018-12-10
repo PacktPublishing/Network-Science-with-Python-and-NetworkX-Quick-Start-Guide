@@ -1,0 +1,6 @@
+# Example adjacency list network
+# source target1 target2 ...
+Winegroom Uptown Strawshop
+Uptown Strawshop Amazelake Winegroom
+Strawshop Winegroom
+Province Strawshop

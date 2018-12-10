@@ -1,0 +1,7 @@
+# Example edge list network
+# source target data1 data2 ...
+Winegroom Uptown 1 red
+Winegroom Strawshop 5 orange
+Uptown Strawshop 9 blue
+Uptown Amazelake 6 red
+Strawshop Province 3 orange

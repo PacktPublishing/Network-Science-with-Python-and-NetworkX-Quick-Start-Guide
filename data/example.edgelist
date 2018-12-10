@@ -1,0 +1,8 @@
+# Example edge list network
+# source target
+Winegroom Uptown
+Winegroom Strawshop
+Uptown Strawshop
+Uptown Amazelake
+Strawshop Province
+

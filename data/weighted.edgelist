@@ -1,0 +1,7 @@
+# Example edge list network
+# source target weight
+Winegroom Uptown 1
+Winegroom Strawshop 5
+Uptown Strawshop 9
+Uptown Amazelake 6
+Strawshop Province 3
