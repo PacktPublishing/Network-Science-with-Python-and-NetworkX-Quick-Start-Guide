@@ -1,4 +1,4 @@
-This data set is derived from (Ligtenberg & Pei, 2017). The derived data set includes only links that existed between 2001-10-01 and 2002-03-01. The readme text for the full original data set is below.
+This data set is derived from (Ligtenberg & Pei, 2017). The derived data set includes only links that existed between 2001-10-01 and 2003-10-01. The readme text for the full original data set is below.
 
 W. Ligtenberg and Y. Pei, "Introduction to a Temporal Graph Benchmark." Preprint, arXiv:1703.02852 (2017)
 http://www.onzichtbaar.net/dataset/Temporal_wiki_hyperlinks.rar
