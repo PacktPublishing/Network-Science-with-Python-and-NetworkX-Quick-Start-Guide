@@ -6,7 +6,7 @@
 # Network-Science-with-Python-and-NetworkX-Quick-Start-Guide
 Network Science with Python and NetworkX Quick Start Guide, published by Packt
 
-<a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/network-science-python-and-networkx-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789955316"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/2/12345_mockup_cover_b13067.png" alt="Network Science with Python and NetworkX Quick Start Guide" height="256px" align="right"></a>
+<a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/network-science-python-and-networkx-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789955316"><img src="https://static.packt-cdn.com/products/9781789955316/cover/smaller" alt="Network Science with Python and NetworkX Quick Start Guide" height="256px" align="right"></a>
 
 This is the code repository for [Network Science with Python and NetworkX Quick Start Guide](https://prod.packtpub.com/in/big-data-and-business-intelligence/network-science-python-and-networkx-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789955316), published by Packt.
 
