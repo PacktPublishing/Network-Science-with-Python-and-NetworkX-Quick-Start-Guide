@@ -52,7 +52,11 @@ With the following software and hardware list you can run all code files present
 
 
 ### Errata
-* Page 120: **Understanding how network structure influences the spread of diseases and ideas makes it possible to* _should be replaced with_ **Understanding how network structure influences the spread of diseases and ideas makes it possible to design policies and infrastructure that protect against disease and encourage innovation.**
+* Page 120: **Understanding how network structure influences the spread of diseases and ideas makes it possible to**
+
+     _should be replaced with_ 
+
+    **Understanding how network structure influences the spread of diseases and ideas makes it possible to design policies and infrastructure that protect against disease and      encourage innovation.**
 
 ### Related products <Other books you may enjoy>
 * Python Machine Learning Cookbook - Second Edition [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/python-machine-learning-cookbook-second-edition-0?utm_source=github&utm_medium=repository&utm_campaign=9781789808452) [[Amazon]](https://www.amazon.com/dp/1789808456)
