@@ -15,7 +15,7 @@ This is the code repository for [Network Science with Python and NetworkX Quick 
 ## What is this book about?
 NetworkX is a leading free and open source package used for network science with the Python programming language. NetworkX can track properties of individuals and relationships, find communities, analyze resilience, detect key network locations, and perform a wide range of important tasks. With the recent release of version 2, NetworkX has been updated to be more powerful and easy to use.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Learn how to manage users, groups, and permissions
 * Encrypt and decrypt disks with Linux Unified Key Setup /Luks
 * Setup SSH for remote access, and connect it to other nodes
@@ -67,6 +67,3 @@ With the following software and hardware list you can run all code files present
 **Edward L. Platt**
 creates technology for communities and communities for technology. He is currently a researcher at the University of Michigan School of Information and the Center for the Study of Complex Systems. He has published research on large-scale collective action, social networks, and online communities. He was formerly a staff researcher at the MIT Center for Civic Media. He contributes to many free/open source software projects, including tools for media analysis, network science, and cooperative organizations. He has also done research on quantum computing and fault tolerance. He has an M.Math in Applied Mathematics from the University of Waterloo, as well as B.S degrees in both Computer Science and Physics from MIT.
 
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
