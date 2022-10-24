@@ -62,3 +62,7 @@ With the following software and hardware list you can run all code files present
 **Edward L. Platt**
 creates technology for communities and communities for technology. He is currently a researcher at the University of Michigan School of Information and the Center for the Study of Complex Systems. He has published research on large-scale collective action, social networks, and online communities. He was formerly a staff researcher at the MIT Center for Civic Media. He contributes to many free/open source software projects, including tools for media analysis, network science, and cooperative organizations. He has also done research on quantum computing and fault tolerance. He has an M.Math in Applied Mathematics from the University of Waterloo, as well as B.S degrees in both Computer Science and Physics from MIT.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789955316">https://packt.link/free-ebook/9781789955316 </a> </p>
